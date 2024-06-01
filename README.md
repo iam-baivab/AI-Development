@@ -22,7 +22,7 @@ To get started with this project, follow these steps:
 
 1. **Clone the repository:**
     ```sh
-    git clone https://github.com/iam-baivab/aidevelopment.git
+    git clone https://github.com/iam-baivab/AI-Development.git
     cd aidevelopment
     ```
 
